@@ -7,7 +7,7 @@ package org.example;
 
 /**
  * Коментарі до коду:
- * 1) Варіант1. Вирішення проблеми DeadLock через locks.ReentrantLock
+ * 1) Варіант2. Вирішення проблеми DeadLock через Synchronized blocks.
  */
 public class Main {
     public static void main(String[] args) {
